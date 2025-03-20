@@ -1,0 +1,1 @@
+This project implements traffic sign detection and classification using YOLO-based deep learning models. The goal is to recognize traffic signs in real-world conditions for applications like autonomous driving and driver assistance systems. We trained three different YOLO models (YOLOv8n, YOLOv9t, YOLOv10n) and compared their performance and training times.
